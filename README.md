@@ -9,3 +9,5 @@ The Youtube Clone has several Components SearchBar,VideoDetails,VideoList etc wh
 **The main thing here is to make an account in Youtube API from where you can get the tokens and authentication to fetch the related video and its contents like title,subtitle,thumbnails.** 
 
 Rest the code is very simple and human readable...
+
+**The major thing to note is that you have to put the token which is a secret key while fetching the data which is not available in my code since it is highly confidential thats why the code is not deployed**
